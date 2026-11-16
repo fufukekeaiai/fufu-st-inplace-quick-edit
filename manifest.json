@@ -1,9 +1,9 @@
 {
-  "display_name": "双击就地编辑 (稳固版)",
+  "display_name": "小腐的双击修改",
   "loading_order": 100,
   "requires": [],
   "optional": [],
   "js": "index.js",
-  "author": "Custom",
+  "author": "小腐",
   "version": "1.0.0"
 }
